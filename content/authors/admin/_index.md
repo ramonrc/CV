@@ -18,7 +18,7 @@ social:
     link: https://github.com/ramonrc
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ramonrc/
   - display:
       header: false
     link: https://gitlab.com/rrcarrion
