@@ -2,8 +2,7 @@
 title: Ramón Reyes Carrión
 role: Mathematician
 avatar_filename: avatar.jpg
-bio: My research interests include data analysis, mobile computing and spinor
-  theory.
+bio: My research interests include differential geometry and mobile computing.
 interests:
   - Information Retrieval
 social:
@@ -39,6 +38,6 @@ email: ramonrc@gmail.com
 superuser: true
 highlight_name: false
 ---
-Ramón works at CDIAR. His research interests include data analysis, mobile computing and spinor theory.
+Ramón works at CDIAR. His research interests include differential geometry and mobile computing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
