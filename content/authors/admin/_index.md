@@ -1,7 +1,7 @@
 ---
 title: Ramón Reyes Carrión
 role: Mathematician
-avatar_filename: https://www.gravatar.com/avatar/ec61f966580ab865bff964a475d77ec8?15
+avatar_filename: avatar.jpg
 bio: My research interests include data analysis, mobile computing and spinor
   theory.
 interests:
