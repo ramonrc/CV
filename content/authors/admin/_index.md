@@ -4,7 +4,7 @@ role: Mathematician
 avatar_filename: avatar.jpg
 bio: My research interests include differential geometry and mobile computing.
 interests:
-  - Information Retrieval
+  - Information retrieval
 social:
   - icon: envelope
     icon_pack: fas
