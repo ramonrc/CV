@@ -1,10 +1,10 @@
 ---
 title: Ramón Reyes Carrión
-role: Mathematician
+role: Matemático
 avatar_filename: avatar.jpg
-bio: My research interests include differential geometry and mobile computing.
+bio: Mi investigación incluye aspectos de geometría diferencial y desarrollo de aplicaciones web.
 interests:
-  - Information retrieval
+  - Análisis de datos
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,16 +28,16 @@ organizations:
     url: https://www.smm.org.mx/
 education:
   courses:
-    - course: DPhil Mathematics
-      institution: University of Oxford
+    - course: DPhil en matemáticas
+      institution: Universidad de Oxford
       year: 1992
-    - course: BSc in Mathematics
+    - course: Licenciatura en matemáticas
       institution: UNAM
       year: 1988
 email: ramonrc@gmail.com
 superuser: true
 highlight_name: false
 ---
-Ramón works at CDIAR. His research interests include differential geometry and mobile computing.
+Ramón trabaja en CDIAR. Su investigación incluye aspectos de geometría diferencial y desarrollo de aplicaciones web.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

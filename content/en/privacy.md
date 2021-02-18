@@ -9,4 +9,4 @@ header:
   caption: ""
   image: ""
 ---
-Datos privados, **no** hay autorización para su uso sin autorización explicita por escrito.
+Private information, there is **no** authorization to any use without explicit written permission.
