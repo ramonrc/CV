@@ -16,18 +16,22 @@ subtitle: técnicas
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 70%
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: 80%
   icon: chart-line
   icon_pack: fas
   name: Estadística
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Fotografía
+#- description: 70%
+#  icon: sql
+#  icon_pack: fas
+#  name: SQL
+- description: 90%
+  icon: python
+  icon_pack: fab
+  name: python
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
