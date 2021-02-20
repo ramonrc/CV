@@ -1,6 +1,6 @@
 ---
 title: ObservaCoop
-subtitle: ObservaCoop geolocation
+subtitle: geolocación
 date: 2021-02-17T13:32:44.034Z
 draft: false
 featured: false
@@ -15,4 +15,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-International cooperation observatory geolocation system
+Sistema de geolocalización para el observatorio de cooperación internacional del MORA

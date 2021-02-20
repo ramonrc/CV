@@ -15,4 +15,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Creation of academic evaluations in limesurvey via a django admin interface.
+Creación evaluations de académicos en limesurvey usando django admin.

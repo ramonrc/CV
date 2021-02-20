@@ -5,17 +5,19 @@ summary: ""
 url_video: ""
 date: 2021-02-17T13:45:26.860Z
 categories:
-  - Gmaps
-  - Django
-external_link: https://hrpower.com
+  - Limesurvey
+  - AhaSlides
+  - Docker
+  - Taguette
+external_link: ""
 url_slides: ""
-title: Clock
+title: PETC
 tags:
-  - picassosweb
+  - uam
 links: []
 image:
   caption: ""
   focal_point: Smart
-url_code: ""
+url_code: https://gitlab.com/rrcarrion/PTCE
 ---
-Sistema de reloj checador con geolocalización
+Teaching aids and evaluation for UAM

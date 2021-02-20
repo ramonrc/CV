@@ -1,6 +1,6 @@
 ---
 title: ObservaCoop
-subtitle: ObservaCoop geolocation
+subtitle: geolocation
 date: 2021-02-17T13:32:44.034Z
 draft: false
 featured: false

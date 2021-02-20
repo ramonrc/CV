@@ -14,4 +14,4 @@ image:
   focal_point: Smart
   preview_only: true
 ---
-Visualzation of organizational planning
+Visualización de la planeación oragnizacional

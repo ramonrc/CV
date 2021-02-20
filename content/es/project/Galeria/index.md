@@ -1,21 +1,20 @@
 ---
-slides: example
+slides: ""
 url_pdf: ""
 summary: ""
 url_video: ""
 date: 2021-02-17T13:45:26.860Z
 categories:
-  - Gmaps
-  - Django
-external_link: https://hrpower.com
+  - Joomla
+external_link: ""
 url_slides: ""
-title: Clock
+title: Galerías
 tags:
-  - picassosweb
+  - uam
 links: []
 image:
   caption: ""
   focal_point: Smart
-url_code: ""
+url_code: https://gitlab.com/rrcarrion/Galeria
 ---
-Sistema de reloj checador con geolocalización
+Galerías de arte de la UAM

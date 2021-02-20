@@ -5,17 +5,19 @@ summary: ""
 url_video: ""
 date: 2021-02-17T13:45:26.860Z
 categories:
-  - Gmaps
+  - Flask
   - Django
-external_link: https://hrpower.com
+  - Docker
+  - Redis
+external_link: ""
 url_slides: ""
-title: Clock
+title: TPEA
 tags:
-  - picassosweb
+  - pers
 links: []
 image:
   caption: ""
   focal_point: Smart
-url_code: ""
+url_code: https://gitlab.com/rrcarrion/TPEA
 ---
-Sistema de reloj checador con geolocalización
+Tienda en linea y administración de pedidos para TPEA
