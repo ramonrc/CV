@@ -27,10 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: PicassosWeb
+    tag: picassosweb
+  - name: Mora
+    tag: mora
+  - name: UAM
+    tag: uam
   - name: Other
-    tag: Demo
+    tag: pers
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

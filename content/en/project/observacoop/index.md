@@ -5,8 +5,7 @@ date: 2021-02-17T13:32:44.034Z
 draft: false
 featured: false
 tags:
-  - Django
-  - Gmaps
+  - mora
 categories:
   - Django
   - Gmaps

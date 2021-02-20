@@ -11,8 +11,7 @@ external_link: https://hrpower.com
 url_slides: ""
 title: Clock
 tags:
-  - Gmaps
-  - Django
+  - picassosweb
 links: []
 image:
   caption: ""

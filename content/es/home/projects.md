@@ -25,12 +25,16 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
+  - name: Todos
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: PicassosWeb
+    tag: picassosweb
+  - name: Mora
+    tag: mora
+  - name: UAM
+    tag: uam
+  - name: Otros
+    tag: pers
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
