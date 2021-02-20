@@ -27,9 +27,8 @@ content:
   filter_button:
   - name: Todos
     tag: '*'
-  - name: Django
- #   tag: picassosweb
-    categories: Django
+  - name: PicassosWeb
+    tag: picassosweb
   - name: Mora
     tag: mora
   - name: UAM
