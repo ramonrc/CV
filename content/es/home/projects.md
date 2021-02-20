@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Proyectos
 subtitle: ''
 
 content:
@@ -27,8 +27,9 @@ content:
   filter_button:
   - name: Todos
     tag: '*'
-  - name: PicassosWeb
-    tag: picassosweb
+  - name: Django
+ #   tag: picassosweb
+    categories: Django
   - name: Mora
     tag: mora
   - name: UAM
