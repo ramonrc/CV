@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: ""
 url_pdf: ""
 summary: ""
 url_video: ""
@@ -9,7 +9,7 @@ categories:
   - Django
   - Docker
   - Redis
-external_link: ""
+external_link: https://www.tpea.com.mx/
 url_slides: ""
 title: TPEA
 tags:

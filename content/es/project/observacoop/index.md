@@ -9,10 +9,11 @@ tags:
 categories:
   - Django
   - Gmaps
-external_link: https://gitlab.com/rrcarrion/ObsevaCoop
+external_link: ""
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
+url_code: https://gitlab.com/rrcarrion/ObsevaCoop
 ---
 Sistema de geolocalización para el observatorio de cooperación internacional del MORA

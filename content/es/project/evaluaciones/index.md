@@ -1,6 +1,6 @@
 ---
 title: Evaluaciones
-subtitle: Django limesurvey integration
+subtitle: Integración de Django y Limesurvey
 date: 2021-02-17T12:51:20.827Z
 draft: false
 featured: false

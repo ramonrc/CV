@@ -18,4 +18,4 @@ image:
   focal_point: Smart
 url_code: https://gitlab.com/rrcarrion/meztli
 ---
-Meztli's home site
+Meztli's home site in python - tarbell
