@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     icon: gitlab
 organizations:
-  - name: SMM
-    url: https://www.smm.org.mx/
+  - name: UNAM
+    url: http://paginaspersonales.unam.mx/app/webroot/index.php/academicos/datosContacto/alias:ramonreyescarrion
 education:
   courses:
     - course: DPhil Mathematics
