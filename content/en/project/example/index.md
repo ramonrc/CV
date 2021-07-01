@@ -1,5 +1,5 @@
 ---
-slides: 
+slides: example
 url_pdf: ""
 summary: "Clock in/out"
 url_video: ""
