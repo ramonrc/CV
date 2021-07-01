@@ -1,18 +1,19 @@
 ---
-slides: example
+slides: 
 url_pdf: ""
-summary: ""
+summary: "Clock in/out"
 url_video: ""
-date: 2021-02-17T13:45:26.860Z
+date: 2018-02-17T13:45:26.860Z
 categories:
   - Gmaps
   - Django
+  - Flutter
 external_link: https://hrpower.com
 url_slides: ""
 title: Clock
 tags:
   - picassosweb
-links: []
+links: ["https://www.reymon.mx/sihuapan/"]
 image:
   caption: ""
   focal_point: Smart
