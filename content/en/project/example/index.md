@@ -8,15 +8,19 @@ categories:
   - Gmaps
   - Django
   - Flutter
-external_link: https://hrpower.com
+external_link: 
 url_slides: ""
 title: Clock
+event: "HR Power"
+event_url: https://hrpower.com
 tags:
   - picassosweb
-links: ["https://www.reymon.mx/sihuapan/"]
+links: []
 image:
   caption: ""
   focal_point: Smart
 url_code: ""
+projects:
+- internal-project
 ---
 Check in/out geolocation system
