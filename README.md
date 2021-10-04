@@ -1,6 +1,6 @@
 Actual: [![Netlify Status](https://api.netlify.com/api/v1/badges/b123eb18-f708-475e-b34c-a74f9c81ff35/deploy-status)](https://app.netlify.com/sites/reymoncv/deploys)
 
-<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src=/media/logo.svg alt=Wowchemy width=122.122 height=20.304></a></p>
+<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src=https://wowchemy.com/media/logo.svg alt=Wowchemy width=122.122 height=20.304></a></p>
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
