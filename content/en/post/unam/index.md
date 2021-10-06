@@ -2,6 +2,7 @@
 title: Posts
 type: widget_page
 cms_exclude: true
+featured: false
 
 # View.
 #   1 = List
