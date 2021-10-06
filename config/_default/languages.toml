@@ -9,6 +9,32 @@
 [es]
   languageCode = "es-mx"
   contentDir = "content/es"
+  [es.params]
+    description = "Boigrafía de Ramón Reyes Carrión"
+  [[es.menu.main]]
+    name = "Inicio"
+    url = "#about"
+    weight = 10
+  [[es.menu.main]]
+    name = "Proyectos"
+    url = "#projects"
+    weight = 30
+  [[es.menu.main]]
+    name = "Charlas"
+    url = "#talks"
+    weight = 40
+  [[es.menu.main]]
+    name = "Publicaciones"
+    url = "#featured"
+    weight = 50
+  [[es.menu.main]]
+    name = "Cursos"
+    url = "#posts"
+    weight = 60
+  [[es.menu.main]]
+    name = "Contacto"
+    url = "#contact"
+    weight = 70
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
 #  languageCode = "zh-Hans"
