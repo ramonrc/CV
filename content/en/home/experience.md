@@ -61,6 +61,14 @@ experience:
     location: Dallas, TX
     date_start: '2013-04-01'
     date_end: ''
-    description: development of systems.
+    description: Development of systems.
+
+  - title: Database advisor
+    company: AEFCM - CDIAR
+    company_url: 'https://www.aefcm.gob.mx/'
+    location: CDMX
+    date_start: '2020-01-01'
+    date_end: ''
+    description: Auditing of CDIAR systems.
 
 ---
