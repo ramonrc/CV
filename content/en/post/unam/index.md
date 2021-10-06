@@ -1,7 +1,7 @@
 ---
 title: Posts
 type: widget_page
-cms_exclude: true
+#cms_exclude: true
 featured: false
 
 # View.
