@@ -13,7 +13,8 @@ authors:
   - admin
   - 吳恩達
 lastmod: 2020-12-13T00:00:00Z
-tags: unam
+tags:
+  - unam
   - Academic
   - 开源
 categories:

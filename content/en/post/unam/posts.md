@@ -21,7 +21,7 @@ content:
   filters:
     author: ""
     category: ""
-    tag: ""
+    tag: "unam"
     exclude_featured: false
     exclude_future: false
     exclude_past: false
