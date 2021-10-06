@@ -1,5 +1,6 @@
 ---
 title: Posts
+type: widget_page
 cms_exclude: true
 
 # View.
