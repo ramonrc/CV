@@ -1,44 +1,44 @@
 ---
-title: Herramientas de código abierto para el análisis de datos
+title: Example Talk
 
-event: Congreso estudiantes de ingeniería
-event_url: "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcongresoingenieriasunicaribe%2Fposts%2F553050348359620&show_text=true&width=500"
+event: Wowchemy Conference
+event_url: https://example.org
 
-location: Universidad del Caribe
+location: Wowchemy HQ
 address:
-  street: Esquina Fraccionamiento Tabachines
-  city: Cancún
-  region: Q.R.
-  postcode: '77528'
-  country: México
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
-summary: Taller para el uso de R y Orange.
-abstract: "Se muestran los conceptos básico de estadística para el análisis de datos"
+summary: An example talk using Wowchemy's Markdown slides feature.
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-11-08"
-date_end: "2017-11-09"
+date: "2030-06-01T13:00:00Z"
+date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-12-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
-authors: [admin]
-tags: [infotec]
+authors: []
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**UTCaribe**](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.18169-9/23231340_553050295026292_3366643288005767134_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=KTPq8AtcF_MAX_SICm_&_nc_ht=scontent-cdg2-1.xx&oh=f3af8f6de056b507f3722fdf36f4e0b3&oe=6184CB1D)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/
+  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -49,7 +49,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
