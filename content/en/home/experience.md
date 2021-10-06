@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: CIO
     company: CIMAT
-    company_url: 'www.cimat.mx'
+    company_url: 'https://www.cimat.mx/'
     location: Guanajuato
     date_start: '1996-05-01'
     date_end: '2011-02-28'
@@ -37,7 +37,7 @@ experience:
 
   - title: Security officer
     company: Instituto Mora
-    company_url: 'www.mora.edu.mx'
+    company_url: 'https://www.institutomora.edu.mx/Inicio.html'
     location: CDMX
     date_start: '2011-06-01'
     date_end: '2012-03-31'
@@ -45,7 +45,7 @@ experience:
 
   - title: Researcher
     company: INFOTEC
-    company_url: 'www.infotec.mx'
+    company_url: 'https://www.infotec.mx/'
     location: CDMX
     date_start: '2012-04-01'
     date_end: '2018-02-28'
@@ -54,4 +54,13 @@ experience:
 
         * Reserch
         * Teach
+
+  - title: Developper
+    company: PicassosWeb
+    company_url: 'https://www.picassosweb.mx/'
+    location: Dallas, TX
+    date_start: '2013-04-01'
+    date_end: ''
+    description: development of systems.
+
 ---
