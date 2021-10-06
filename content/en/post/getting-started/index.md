@@ -21,6 +21,7 @@ categories:
   - Demo
   - 教程
 projects: []
+publication_type: "unam"
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
   focal_point: ""
