@@ -57,7 +57,7 @@ experience:
 
   - title: Developper
     company: PicassosWeb
-    company_url: 'https://www.picassosweb.com/'
+    company_url: 'http://www.picassosweb.com/'
     location: Dallas, TX
     date_start: '2013-04-01'
     date_end: ''
