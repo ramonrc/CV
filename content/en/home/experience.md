@@ -57,7 +57,7 @@ experience:
 
   - title: Developper
     company: PicassosWeb
-    company_url: 'https://www.picassosweb.mx/'
+    company_url: 'https://www.picassosweb.com/'
     location: Dallas, TX
     date_start: '2013-04-01'
     date_end: ''
@@ -65,7 +65,7 @@ experience:
 
   - title: Database advisor
     company: AEFCM - CDIAR
-    company_url: 'https://www.aefcm.gob.mx/'
+    company_url: 'https://www.aefcm.gob.mx/gbmx/index.html'
     location: CDMX
     date_start: '2020-01-01'
     date_end: ''
