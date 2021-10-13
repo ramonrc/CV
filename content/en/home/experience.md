@@ -55,7 +55,7 @@ experience:
         * Reserch
         * Teach
 
-  - title: Developper
+  - title: CIO
     company: PicassosWeb
     company_url: 'http://www.picassosweb.com/'
     location: Dallas, TX
@@ -69,6 +69,6 @@ experience:
     location: CDMX
     date_start: '2020-01-01'
     date_end: ''
-    description: Auditing of CDIAR systems.
+    description: Auditing of CDIAR systems and databases.
 
 ---
