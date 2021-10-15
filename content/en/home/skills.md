@@ -24,14 +24,22 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-#- description: 70%
-#  icon: sql
-#  icon_pack: fas
-#  name: SQL
+- description: 70%
+  icon: sql
+  icon_pack: fas
+  name: SQL
 - description: 90%
   icon: python
   icon_pack: fab
   name: python
+- description: 50%
+  icon: html5
+  icon_pack: fab
+  name: HTML5
+- description: 40%
+  icon: js
+  icon_pack: fab
+  name: JS
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
