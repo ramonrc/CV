@@ -9,9 +9,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=SqGOT-UAAAAJ
+  - icon: orchid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-8452-5036
   - icon: github
     icon_pack: fab
     link: https://github.com/ramonrc

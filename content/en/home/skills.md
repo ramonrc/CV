@@ -24,15 +24,11 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 70%
-  icon: sql
-  icon_pack: fas
-  name: SQL
 - description: 90%
   icon: python
   icon_pack: fab
   name: python
-- description: 50%
+- description: 60%
   icon: html5
   icon_pack: fab
   name: HTML5
