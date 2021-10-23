@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Habilidades
-subtitle: técnicas
+subtitle: _técnicas_
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
