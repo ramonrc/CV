@@ -12,6 +12,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=SqGOT-UAAAAJ
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Ramon-Reyes-3
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-8452-5036
