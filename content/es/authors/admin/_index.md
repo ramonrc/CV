@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: Mi investigación incluye aspectos de geometría diferencial y desarrollo de aplicaciones web.
 interests:
   - Análisis de datos
-  social:
+social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
