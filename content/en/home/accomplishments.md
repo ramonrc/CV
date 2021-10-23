@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 150
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "1998-10-01"
+  date_start: "1988"
   description: "Generation's best mark"
   organization: UNAM
   organization_url: https://www.unam.mx
@@ -33,18 +33,10 @@ item:
   url: ""
 - certificate_url: ""
   date_end: ""
-  date_start: "2018-03-01"
-  description: Cisco certified network associate
+  date_start: "2002"
+  description: Cisco Certified Network Associate instructor
   organization: Cisco
   organization_url: https://www.cisco.com
   title: CCNA Instructor
-  url: ""
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
   url: ""
 ---
