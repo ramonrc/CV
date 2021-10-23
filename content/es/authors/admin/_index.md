@@ -6,26 +6,26 @@ bio: Mi investigación incluye aspectos de geometría diferencial y desarrollo d
 interests:
   - Análisis de datos
   social:
-    - icon: envelope
-      icon_pack: fas
-      link: /#contact
-    - icon: google-scholar
-      icon_pack: ai
-      link: https://scholar.google.co.uk/citations?user=SqGOT-UAAAAJ
-    - icon: orchid
-      icon_pack: ai
-      link: https://orcid.org/0000-0002-8452-5036
-    - icon: github
-      icon_pack: fab
-      link: https://github.com/ramonrc
-    - icon: linkedin
-      icon_pack: fab
-      link: https://www.linkedin.com/in/ramonrc/
-    - display:
-        header: false
-      link: https://gitlab.com/rrcarrion
-      icon_pack: fab
-      icon: gitlab
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=SqGOT-UAAAAJ
+  - icon: orchid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-8452-5036
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/ramonrc
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/ramonrc/
+  - display:
+      header: false
+    link: https://gitlab.com/rrcarrion
+    icon_pack: fab
+    icon: gitlab
 organizations:
   - name: UNAM
     url: http://paginaspersonales.unam.mx/app/webroot/index.php/academicos/datosContacto/alias:ramonreyescarrion
