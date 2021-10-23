@@ -10,7 +10,7 @@ headless: true
 weight: 130
 
 title: Contacto
-subtitle:
+subtitle: _directo_
 
 content:
   # Automatically link email and phone or display as text?
