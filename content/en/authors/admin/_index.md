@@ -12,7 +12,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=SqGOT-UAAAAJ
-  - icon: orchid
+  - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-8452-5036
   - icon: github
