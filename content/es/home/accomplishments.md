@@ -10,12 +10,12 @@ headless: true
 weight: 150
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Lo`&shy;`gros'
+title: 'Lo&shy;gros'
 subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2, 2006
+date_format: Enero 2, 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
