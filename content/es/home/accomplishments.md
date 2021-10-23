@@ -25,7 +25,7 @@ date_format: Jan 2, 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "Jun, 1989"
+  date_start: "Jun 1, 1989"
   description: "Mejor promedio de la generación"
   organization: UNAM
   organization_url: https://www.unam.mx
@@ -33,7 +33,7 @@ item:
   url: ""
 - certificate_url: ""
   date_end: ""
-  date_start: "Agosto, 2002"
+  date_start: "Agosto 1, 2002"
   description: Instructor Cisco Certified Network Associate
   organization: Cisco
   organization_url: https://www.cisco.com

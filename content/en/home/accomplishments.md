@@ -25,7 +25,7 @@ date_format: Jan 2, 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "June, 1989"
+  date_start: "June 1, 1989"
   description: "Generation's best mark"
   organization: UNAM
   organization_url: https://www.unam.mx
@@ -33,7 +33,7 @@ item:
   url: ""
 - certificate_url: ""
   date_end: ""
-  date_start: "Aug, 2002"
+  date_start: "Aug 1, 2002"
   description: Cisco Certified Network Associate instructor
   organization: Cisco
   organization_url: https://www.cisco.com
