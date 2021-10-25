@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Cursos UNAM
 type: widget_page
 cms_exclude: true
 featured: false
