@@ -53,18 +53,18 @@ design:
 - 2019-I
   - [Introducción a la Geometría Avanzada](http://www.fciencias.unam.mx/docencia/horarios/presentacion/295665) _grupo_: 4260
 - 2018-II
-  - [Álgebra Lineal I](https://web.fciencias.unam.mx/docencia/horarios/presentacion/291682) _grupo_: 4354
+  - [Álgebra Lineal I](https://www.fciencias.unam.mx/docencia/horarios/presentacion/291682) _grupo_: 4354
   - [Geometría Diferencial I](http://www.fciencias.unam.mx/docencia/horarios/presentacion/290665) _grupo_: 4230
 - 2018-I
-  - [Geometría Analítica II](https://web.fciencias.unam.mx/docencia/horarios/presentacion/285482) _grupo_: 4114
+  - [Geometría Analítica II](https://www.fciencias.unam.mx/docencia/horarios/presentacion/285482) _grupo_: 4114
 - 2017-II
-  - [Geometría Analítica I](https://web.fciencias.unam.mx/docencia/horarios/presentacion/279725) _grupo_: 4025
+  - [Geometría Analítica I](https://www.fciencias.unam.mx/docencia/horarios/presentacion/279725) _grupo_: 4025
 - 2017-I
-  - [Álgebra Superior I](https://web.fciencias.unam.mx/docencia/horarios/presentacion/274119) _grupo_: 4000
+  - [Álgebra Superior I](https://www.fciencias.unam.mx/docencia/horarios/presentacion/274119) _grupo_: 4000
 - 2016-I
-  - [Álgebra Lineal I](https://web.fciencias.unam.mx/docencia/horarios/presentacion/264046) _grupo_: 4136
+  - [Álgebra Lineal I](https://www.fciencias.unam.mx/docencia/horarios/presentacion/264046) _grupo_: 4136
 - 2015-I
-  - [Geometría Moderna I](https://web.fciencias.unam.mx/docencia/horarios/presentacion/246141) _grupo_: 4325
-  - [Geometría Riemanniana I](https://web.fciencias.unam.mx/docencia/horarios/presentacion/244939) _grupo_: 4238
+  - [Geometría Moderna I](https://www.fciencias.unam.mx/docencia/horarios/presentacion/246141) _grupo_: 4325
+  - [Geometría Riemanniana I](https://www.fciencias.unam.mx/docencia/horarios/presentacion/244939) _grupo_: 4238
 - 2014-II
-  - [Geometría Diferencial I](https://web.fciencias.unam.mx/docencia/horarios/presentacion/241018) _grupo_: 4194
+  - [Geometría Diferencial I](https://www.fciencias.unam.mx/docencia/horarios/presentacion/241018) _grupo_: 4194
