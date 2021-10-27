@@ -36,14 +36,18 @@ education:
   courses:
     - course: DPhil en matemáticas
       institution: Universidad de Oxford
+      certificate_url: /titulo_doctorado.pdf
       year: 1992
     - course: Licenciatura en matemáticas
       institution: UNAM
+      certificate_url: /Licenciatura.pdf
       year: 1988
 email: ramonrc@gmail.com
 superuser: true
 highlight_name: false
 ---
+![Trabajo en progreso](/media/workinprog.png "Trabajando")
+
 Ramón trabaja en CDIAR. Su investigación incluye aspectos de geometría diferencial y desarrollo de aplicaciones web.
 
 {{< icon name="download" pack="fas" >}} Descarga mi {{< staticref "media/main_es.pdf" "newtab" >}}resumen curricular{{< /staticref >}}.
