@@ -44,7 +44,7 @@ email: ramonrc@gmail.com
 superuser: true
 highlight_name: false
 ---
-![Work in progress](/media/workinprog.png =250x100)
+![Work in progress](/media/workinprog.png "Working"){: width=150 height=100 style="float:right; padding:16px"}
 
 Ramón works at CDIAR. His research interests include differential geometry and mobile computing.
 
