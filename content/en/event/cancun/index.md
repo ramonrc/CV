@@ -1,5 +1,5 @@
 ---
-title: Open code tools for data analytics
+title: Open source tools for data analytics
 
 event: Congreso estudiantes de ingeniería
 event_url: "https://www.facebook.com/congresoingenieriasunicaribe/posts/553050348359620"
