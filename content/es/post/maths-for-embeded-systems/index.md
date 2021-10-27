@@ -1,5 +1,5 @@
 ---
-title: Maths for embeded systems
+title: Matemáticas para sistemas embebidos
 date: 2021-02-17T13:47:04.156Z
 draft: false
 featured: false
@@ -10,4 +10,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-At CINVESTAV Guadalajara
+Impartido en CINVESTAV Guadalajara
