@@ -35,11 +35,11 @@ organizations:
 education:
   courses:
     - course: DPhil Mathematics
-      certificate: titulo_doctorado.pdf
+      certificate_url: titulo_doctorado.pdf
       institution: University of Oxford
       year: 1992
     - course: BSc in Mathematics
-      certificate: Licenciatura.pdf
+      certificate_url: Licenciatura.pdf
       institution: UNAM
       year: 1988
 email: ramonrc@gmail.com

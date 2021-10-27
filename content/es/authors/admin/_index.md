@@ -36,11 +36,11 @@ education:
   courses:
     - course: DPhil en matemáticas
       institution: Universidad de Oxford
-      certificate_url: /titulo_doctorado.pdf
+      url: /titulo_doctorado.pdf
       year: 1992
     - course: Licenciatura en matemáticas
       institution: UNAM
-      certificate_url: /Licenciatura.pdf
+      url: /Licenciatura.pdf
       year: 1988
 email: ramonrc@gmail.com
 superuser: true
