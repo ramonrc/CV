@@ -11,7 +11,7 @@ lastmod: 2020-12-13T00:00:00Z
 tags:
   - unam
 categories:
-  - stackedit
+  - StackEdit
 projects: []
 image:
   caption: ""
@@ -19,7 +19,6 @@ image:
   placement: 2
   preview_only: false
 ---
-
 
 - 2022-I
   - [Geometría Analítica I](http://www.fciencias.unam.mx/docencia/horarios/presentacion/326910) _grupo_: 4079
