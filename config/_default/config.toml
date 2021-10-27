@@ -30,7 +30,7 @@ defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
 summaryLength = 30  # Listing summary length in words. Also, see `abstract_length` in `params.toml`.
-paginate = 6  # Number of items per page in paginated lists.
+paginate = 7  # Number of items per page in paginated lists.
 enableEmoji = true
 enableRobotsTXT = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -85,7 +85,7 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
 
   [[related.indices]]
     name = "summary"
-    weight = 50.0
+    weight = 70.0
 
   [[related.indices]]
     name = "tags"
@@ -93,7 +93,7 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
 
   [[related.indices]]
     name = "categories"
-    weight = 70.0
+    weight = 90.0
 
 # Install Wowchemy
 [module]
