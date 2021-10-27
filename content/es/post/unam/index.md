@@ -2,7 +2,7 @@
 title: UNAM
 subtitle: Cursos impartidos en la UNAM
 date: 2020-12-13T00:00:00Z
-summary: Lista de los cursos impartidos en la facultad de ciencias de la UNAM
+summary: Lista de los cursos impartidos en la _facultad de ciencias_ de la UNAM
 draft: false
 featured: true
 authors:
@@ -14,7 +14,7 @@ categories:
   - stackedit
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  caption: ""
   focal_point: ""
   placement: 2
   preview_only: false
