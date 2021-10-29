@@ -22,33 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CIO
+  - title: Researcher - UTIC's officer
     company: CIMAT
     company_url: 'https://www.cimat.mx/'
     location: Guanajuato
-    date_start: '1996-05-01'
+    date_start: '1994-05-01'
     date_end: '2011-02-28'
     description: |2-
         Responsibilities include:
 
         * Reserch
         * Teach
-        * Deploying
+        * Develop and management of systems
 
   - title: Security officer
     company: Instituto Mora
     company_url: 'https://www.institutomora.edu.mx/Inicio.html'
     location: CDMX
     date_start: '2011-06-01'
-    date_end: '2012-03-31'
-    description: Security advice.
+    date_end: '2012-05-31'
+    description: Security advice and auditing.
 
   - title: Researcher
-    company: INFOTEC
+    company: INFOTEC (DAIC)
     company_url: 'https://www.infotec.mx/'
     location: CDMX
     date_start: '2012-04-01'
-    date_end: '2018-02-28'
+    date_end: '2019-02-28'
     description: |2-
         Responsibilities include:
 
@@ -61,7 +61,7 @@ experience:
     location: Dallas, TX
     date_start: '2013-04-01'
     date_end: ''
-    description: Development of systems.
+    description: Development and management of systems.
 
   - title: Database advisor
     company: AEFCM - CDIAR
