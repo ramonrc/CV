@@ -39,4 +39,36 @@ item:
   organization_url: https://www.cisco.com
   title: CCNA Instructor
   url: ""
+- certificate_url: ""
+  date_end: "1988-07-01"
+  date_start: "1986-06-01"
+  description: Undergraduate scholarship, economic and facilities support
+  organization: IMATE - UNAM
+  organization_url: https://www.matem.unam.mx/
+  title: IMATE scholarship
+  url: ""
+- certificate_url: ""
+  date_end: "1993-06-30"
+  date_start: "1988-07-01"
+  description: Doctorate scholarship, economic and university fees support
+  organization: DGAPA - UNAM
+  organization_url: https://dgapa.unam.mx/
+  title: DGAPA scholarship
+  url: ""
+- certificate_url: ""
+  date_end: "1991-06-30"
+  date_start: "1989-07-01"
+  description: British council scholarship for graduate studies
+  organization: The British council
+  organization_url: https://www.britishcouncil.org.mx/en
+  title: GREAT scholarship
+  url: ""
+- certificate_url: ""
+  date_end: "1995-04-30"
+  date_start: "1994-05-01"
+  description: "Financial and employment support to work back in Mexico"
+  organization: CONACYT
+  organization_url: https://conacyt.mx/
+  title: CONACYT's repatriation
+  url: ""
 ---

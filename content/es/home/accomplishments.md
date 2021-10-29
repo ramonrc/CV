@@ -39,4 +39,36 @@ item:
   organization_url: https://www.cisco.com
   title: Instructor CCNA
   url: ""
+- certificate_url: ""
+  date_end: "1988-07-01"
+  date_start: "1986-06-01"
+  description: Beca de ayuda económica y espacio
+  organization: IMATE - UNAM
+  organization_url: https://www.matem.unam.mx/
+  title: Becario IMATE
+  url: ""
+- certificate_url: ""
+  date_end: "1993-06-30"
+  date_start: "1988-07-01"
+  description: Beca de doctorado, ayuda economica y colegiatura
+  organization: DGAPA - UNAM
+  organization_url: https://dgapa.unam.mx/
+  title: Becario DGAPA
+  url: ""
+- certificate_url: ""
+  date_end: "1991-06-30"
+  date_start: "1989-07-01"
+  description: Beca del consejo británico para estudios de posgrado
+  organization: El consejo británico
+  organization_url: https://www.britishcouncil.org.mx/
+  title: Becario GREAT
+  url: ""
+- certificate_url: ""
+  date_end: "1995-04-30"
+  date_start: "1994-05-01"
+  description: "Contratación y gastos de menaje para regresar a México"
+  organization: CONACYT
+  organization_url: https://conacyt.mx/
+  title: Repatriación CONACYT
+  url: ""
 ---
