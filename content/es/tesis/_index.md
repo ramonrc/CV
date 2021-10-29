@@ -1,5 +1,5 @@
 ---
-title: Cursos
+title: Tesis
 cms_exclude: true
 
 # View.
