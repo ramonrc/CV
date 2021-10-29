@@ -52,8 +52,9 @@ experience:
     description: |2-
         Responsibilities include:
 
-        * Investigación
+        * Investigación aplicada
         * Docencia
+        * Analitica de datos
 
   - title: CIO
     company: PicassosWeb

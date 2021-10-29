@@ -52,8 +52,9 @@ experience:
     description: |2-
         Responsibilities include:
 
-        * Reserch
+        * Applied reserch
         * Teach
+        * Data analytics
 
   - title: CIO
     company: PicassosWeb
