@@ -1,10 +1,10 @@
 ---
-title: Herramientas de código abierto para el análisis de datos
+title: CATI
 
-event: Congreso estudiantes de ingeniería
-event_url: "https://www.facebook.com/congresoingenieriasunicaribe/posts/553050348359620"
+event: Consejo asesor en tecnologías de la información
+event_url: ""
 
-location: Universidad del Caribe
+location: CONACYT
 address:
   street: Esquina Fraccionamiento Tabachines
   city: Cancún
@@ -12,12 +12,12 @@ address:
   postcode: '77528'
   country: México
 
-summary: Taller para el uso de R y Orange.
-abstract: "Se muestran los conceptos básico de estadística para el análisis de datos"
+summary: Grupo de apoyo en TIC's
+abstract: "Coolaboración técnica y logística"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-11-08"
+date: "2000-11-08"
 date_end: "2017-11-09"
 all_day: false
 
@@ -35,10 +35,10 @@ image:
   focal_point: Right
 
 links:
-- icon: facebook
+- icon: ""
   icon_pack: fab
-  name: Follow
-  url: https://www.facebook.com/congresoingenieriasunicaribe/
+  name: ""
+  url: ""
 url_code: ""
 url_pdf: ""
 url_slides: "https://ramonrc.s3.amazonaws.com/cancun/index.html"
@@ -57,9 +57,15 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- bigdata
+- cati
 ---
 
-{{% callout note %}}
-**Taller**
-{{% /callout %}}
+http://web.archive.org/web/20110312165659/http://www.cati.org.mx/
+
+https://sites.google.com/a/rci.edu.mx/reunionxxiii-del-cati/home
+
+http://cati.cimav.edu.mx/
+
+https://www.cimat.mx/Eventos/CATI/
+
+https://www.ciateq.mx/english/79-informacion-corporativa/eventos-ciateq/448-xxv-reuni%c3%b3n-cati.html
