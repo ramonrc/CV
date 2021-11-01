@@ -6,10 +6,11 @@ event_url: ""
 
 location: CONACYT
 address:
-  street: Esquina Fraccionamiento Tabachines
-  city: Cancún
-  region: Q.R.
-  postcode: '77528'
+  street: Av. Insurgentes Sur 1582, Col. Crédito Constructor
+  telephone: (55) 5322-7700
+  city: Ciudad de México
+  region: Alcaldía Benito Juárez
+  postcode: '03940'
   country: México
 
 summary: Grupo de apoyo en TIC's
@@ -24,14 +25,14 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-12-01T00:00:00Z"
 
-authors: [admin]
-tags: [infotec]
+authors: []
+tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
-  caption: 'Image credit: [**UTCaribe**](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.18169-9/23231340_553050295026292_3366643288005767134_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=KTPq8AtcF_MAX_SICm_&_nc_ht=scontent-cdg2-1.xx&oh=f3af8f6de056b507f3722fdf36f4e0b3&oe=6184CB1D)'
+  caption: ''
   focal_point: Right
 
 links:
@@ -57,7 +58,9 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- cati
+- cimat
+- mora
+- infotec
 ---
 
 http://web.archive.org/web/20110312165659/http://www.cati.org.mx/
