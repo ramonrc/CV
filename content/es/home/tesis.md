@@ -7,11 +7,11 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 150
+weight: 15
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Re&shy;conocimientos'
-subtitle:
+title: 'Tesis'
+subtitle: Dirijidas
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -26,49 +26,33 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "1989-06-01"
-  description: "Mejor promedio de la generación"
-  organization: UNAM
-  organization_url: https://www.unam.mx
-  title: Medalla Gabino Bareda
+  description: Yucateco
+  organization: CIMAT
+  organization_url: https://www.cimat.mx
+  title: Productos
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2002-08-01"
-  description: Instructor Cisco Certified Network Associate
-  organization: Cisco
-  organization_url: https://www.cisco.com
-  title: Instructor CCNA
+  description: Ivonne
+  organization: CIMAT
+  organization_url: https://www.cimat.mx
+  title: Construcción
   url: ""
 - certificate_url: ""
-  date_end: "1988-07-01"
+  date_end: ""
   date_start: "1986-06-01"
-  description: Beca de ayuda económica y espacio
-  organization: IMATE - UNAM
-  organization_url: https://www.matem.unam.mx/
-  title: Becario IMATE
+  description: Sarai
+  organization: ITESI
+  organization_url: https://irapuato.tecnm.mx/
+  title: Implementación
   url: ""
 - certificate_url: ""
-  date_end: "1993-06-30"
+  date_end: ""
   date_start: "1988-07-01"
   description: Beca de doctorado, ayuda economica y colegiatura
   organization: DGAPA - UNAM
   organization_url: https://dgapa.unam.mx/
   title: Becario DGAPA
-  url: ""
-- certificate_url: ""
-  date_end: "1991-06-30"
-  date_start: "1989-07-01"
-  description: Beca del consejo británico para estudios de posgrado
-  organization: El consejo británico
-  organization_url: https://www.britishcouncil.org.mx/
-  title: Becario GREAT
-  url: ""
-- certificate_url: ""
-  date_end: "1995-04-30"
-  date_start: "1994-05-01"
-  description: "Contratación y gastos de menaje para regresar a México"
-  organization: CONACYT
-  organization_url: https://conacyt.mx/
-  title: Repatriación CONACYT
   url: ""
 ---
