@@ -16,13 +16,24 @@
     url = "#about"
     weight = 10
   [[es.menu.main]]
+    name = "Academia"
+    url = "#posts"
+    identifier = "acad"
+    weight = 20
+  [[es.menu.main]]
     name = "Proyectos"
     url = "#projects"
     weight = 30
   [[es.menu.main]]
     name = "Charlas"
     url = "#talks"
-    weight = 40
+    weight = 23
+    parent = "acad"
+  [[es.menu.main]]
+    name = "Tesis"
+    url = "#tesis"
+    weight = 22
+    parent = "acad"
   [[es.menu.main]]
     name = "Publicaciones"
     url = "#featured"
@@ -30,7 +41,8 @@
   [[es.menu.main]]
     name = "Cursos"
     url = "#posts"
-    weight = 60
+    weight = 21
+    parent = "acad"
   [[es.menu.main]]
     name = "Contacto"
     url = "#contact"
