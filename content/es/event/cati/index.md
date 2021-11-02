@@ -8,8 +8,8 @@ location: CONACYT
 address:
   street: Av. Insurgentes Sur 1582, Col. Crédito Constructor
   telephone: (55) 5322-7700
-  city: Ciudad de México
-  region: Alcaldía Benito Juárez
+  city: Alcaldía Benito Juárez
+  region: Ciudad de México
   postcode: '03940'
   country: México
 

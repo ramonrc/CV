@@ -16,6 +16,10 @@
     url = "#about"
     weight = 10
   [[es.menu.main]]
+    name = "Experiencia"
+    url = "#experience"
+    weight = 15
+  [[es.menu.main]]
     name = "Academia"
     url = "#posts"
     identifier = "acad"
