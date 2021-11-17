@@ -51,7 +51,7 @@
   weight = 21
   parent = "acad"
 [[main]]
-  name = "#accomplishments"
+  name = "Accomplishments"
   url = "#accomplishments"
   weight = 24
   parent = "tec"
