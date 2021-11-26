@@ -52,4 +52,6 @@ Ramón works at CDIAR. His research interests include differential geometry and 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-__CVU__ 372681
+{{< spoiler text="__CVU__" >}}
+372681
+{{< /spoiler >}}
