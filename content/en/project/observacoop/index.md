@@ -1,6 +1,6 @@
 ---
 title: ObservaCoop
-subtitle: geolocation
+subtitle: geolocalization
 date: 2021-02-17T13:32:44.034Z
 draft: false
 featured: false
@@ -16,4 +16,5 @@ image:
   preview_only: false
 url_code: https://gitlab.com/rrcarrion/ObsevaCoop
 ---
-International cooperation observatory geolocation system
+
+Geolocalization system for the __Observatorio de Cooperación Internacional para el Desarrollo__ of MORA's research institue.

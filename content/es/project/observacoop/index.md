@@ -16,4 +16,4 @@ image:
   preview_only: false
 url_code: https://gitlab.com/rrcarrion/ObsevaCoop
 ---
-Sistema de geolocalización para el observatorio de cooperación internacional del MORA
+Sistema de geolocalización para el __Observatorio de Cooperación Internacional para el Desarrollo__ del MORA
