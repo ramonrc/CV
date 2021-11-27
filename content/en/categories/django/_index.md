@@ -1,5 +1,5 @@
 ---
-title: Django apps
+title: Django
 # View.
 #   1 = List
 #   2 = Compact
@@ -7,4 +7,4 @@ title: Django apps
 view: 3
 ---
 
-[Django](django.com)
+# Apps developped with [Django](https://www.djangoproject.com/)
