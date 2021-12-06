@@ -2,7 +2,7 @@
 title: Ramón Reyes Carrión
 role: Mathematician
 avatar_filename: avatar.jpg
-bio: My research interests include differential geometry and mobile computing.
+bio: My research interests include differential geometry and software development.
 interests:
   - Information retrieval
 social:
