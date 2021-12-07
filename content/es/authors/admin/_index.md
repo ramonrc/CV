@@ -48,7 +48,7 @@ highlight_name: false
 ---
 ![Trabajo en progreso](/media/workinprog.png "Trabajando")
 
-Ramón trabaja en CDIAR. Su investigación incluye aspectos de geometría diferencial y desarrollo de aplicaciones web.
+Ramón trabaja en CDIAR. Su investigación incluye aspectos de geometría diferencial y desarrollo de aplicaciones.
 
 {{< icon name="download" pack="fas" >}} Descarga mi {{< staticref "media/main_es.pdf" "newtab" >}}resumen curricular{{< /staticref >}}.
 

@@ -48,7 +48,7 @@ highlight_name: false
 ---
 ![Work in progress](/media/workinprog.png "Working")
 
-Ramón works at CDIAR. His research interests include differential geometry and mobile computing.
+Ramón works at CDIAR. His research interests include differential geometry and software development.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
