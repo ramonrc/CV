@@ -1,14 +1,14 @@
 ---
 title: CIMAT
 subtitle: Cursos impartidos en CIMAT y Universidad de Guanajuato
-date: 2020-12-13T00:00:00Z
+date: ""
 summary: Lista de los cursos impartidos en CIMAT y Universidad de Guanajuato
 draft: false
 featured: true
 authors:
   - admin
 categories: []
-projects: []
+projects: ["CIMAT"]
 image:
   caption: ""
   focal_point: ""
