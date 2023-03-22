@@ -1,14 +1,14 @@
 ---
 title: CIMAT
 subtitle: Courses at CIMAT and Universidad de Guanajuato
-date: 2020-12-13T00:00:00Z
+date: 
 summary: List of courses at CIMAT and Universidad de Guanajuato
 draft: false
 featured: true
 authors:
   - admin
 categories: []
-projects: []
+projects: [CIMAT]
 image:
   caption: ""
   focal_point: ""
