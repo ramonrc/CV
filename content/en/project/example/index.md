@@ -8,7 +8,7 @@ categories:
   - Gmaps
   - Django
   - Flutter
-external_link: 
+external_link: https://hrpower.com
 url_slides: ""
 title: Clock
 event: "HR Power"
@@ -21,6 +21,5 @@ image:
   focal_point: Smart
 url_code: ""
 projects:
-- internal-project
 ---
 Check in/out geolocation system
