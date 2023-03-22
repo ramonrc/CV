@@ -1,14 +1,14 @@
 ---
 title: CIMAT
-subtitle: Cursos impartidos en CIMAT y Universidad de Guanajuato
-date: 2020-12-13T00:00:00Z
-summary: Lista de los cursos impartidos en CIMAT y Universidad de Guanajuato
+subtitle: Courses at INFOTEC
+date: 
+summary: List of courses dictated at INFOTEC
 draft: false
 featured: true
 authors:
   - admin
 categories: []
-projects: []
+projects: [INFOTEC]
 image:
   caption: ""
   focal_point: ""
