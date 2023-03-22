@@ -2,7 +2,7 @@
 title: CIMAT
 subtitle: Courses at INFOTEC
 date: 
-summary: List of courses dictated at INFOTEC
+summary: List of courses dictated at INFOTEC master and doctorate degrees.
 draft: false
 featured: true
 authors:
