@@ -55,3 +55,7 @@ Ramón trabaja en CDIAR. Su investigación incluye aspectos de geometría difere
 {{< spoiler text="__CVU__" >}}
 372681
 {{< /spoiler >}}
+
+{{< spoiler text="__NSS__" >}}
+12946517237
+{{< /spoiler >}}
