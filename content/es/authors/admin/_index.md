@@ -2,7 +2,7 @@
 title: Ramón Reyes Carrión
 role: Matemático
 avatar_filename: avatar.jpg
-bio: Mi investigación incluye aspectos de geometría diferencial y desarrollo de aplicaciones.
+bio: Mi investigación incluye aspectos de geometría diferencial y desarrollo de sistemas.
 interests:
   - Análisis de datos
 social:
