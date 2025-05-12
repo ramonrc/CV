@@ -50,7 +50,7 @@ highlight_name: false
 
 Ramón trabaja en CDIAR. Su investigación incluye aspectos de geometría diferencial y desarrollo de aplicaciones.
 
-{{< icon name="download" pack="fas" >}} Descarga mi {{< staticref "media/main_es.pdf" "newtab" >}}resumen curricular{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Descarga mi [resumen curricular](https://cocalc.com/share/public_paths/6dfc8e2e4f2852c039e40977d42c6d868b913abf).
 
 {{< spoiler text="__CVU__" >}}
 372681
